@@ -16,6 +16,10 @@ dbCalls.getJournalEntry()
         })
     })
 
+
+///////////////
+
+
 document.querySelector("#saveEntryButton").addEventListener("click", () => {
     //Get form field values
     // create object from them
@@ -40,6 +44,11 @@ document.querySelector("#saveEntryButton").addEventListener("click", () => {
         })
 
 });
+
+
+
+//////event 
+
 
 document.body.addEventListener("click", () => {
     if (event.target.className === "delete-button") {

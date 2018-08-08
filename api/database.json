@@ -1,28 +1,22 @@
 {
   "entries": [
     {
-      "title": "I can get it ",
-      "content": "To the database baby!!",
-      "date": 1533737392687,
-      "id": 3
+      "title": "whats uo",
+      "content": "hey guys",
+      "date": "Wed Aug 08 2018 14:47:43 GMT-0500 (Central Daylight Time)",
+      "id": 2
     },
     {
-      "title": "Whats Up Guys",
-      "content": "sup bros",
-      "date": 1533738030790,
+      "title": "suop dude",
+      "content": "hey guyys",
+      "date": "Wed Aug 08 2018 15:08:15 GMT-0500 (Central Daylight Time)",
       "id": 4
     },
     {
-      "title": "new post ",
-      "content": "with the right date",
-      "date": "Wed Aug 08 2018 11:43:08 GMT-0500 (Central Daylight Time)",
-      "id": 12
-    },
-    {
-      "title": "hey",
-      "content": "bros",
-      "date": "Wed Aug 08 2018 11:47:48 GMT-0500 (Central Daylight Time)",
-      "id": 13
+      "title": "guyguysguys",
+      "content": "i figured it out",
+      "date": "Wed Aug 08 2018 15:34:41 GMT-0500 (Central Daylight Time)",
+      "id": 5
     }
   ]
 }
