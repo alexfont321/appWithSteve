@@ -8,7 +8,7 @@ module.exports = function (grunt) {
             options: {
                 browserifyOptions: {
                     paths: [
-                        "./node_modules"
+                        "../scripts", "./node_modules"
                     ]
                 }
             }

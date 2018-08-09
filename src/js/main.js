@@ -4,6 +4,9 @@ let dbCalls = require("./dataManager");
 let journalEntry = require("./entryRep");
 
 
+
+////////////////must use const $ = require("jquery"); Check steve's branch
+
 document.querySelector("#form").innerHTML = formManager.createForm();
 
 const blogPosts = document.querySelector("#blog-posts");
